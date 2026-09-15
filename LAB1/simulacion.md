@@ -2,4 +2,4 @@ Tinkercad: https://www.tinkercad.com/things/dYH91iN0XjD/editel?returnTo=%2Fdashb
 
 velcio: https://velxio.dev/juancamilohenao234/proye/
 
-wokwi: https://wokwi.com/projects/new/arduino-uno
+wokwi: https://wokwi.com/projects/475273037938709505
